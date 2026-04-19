@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tanstack/react-query-devtools": "^5.96.2",
+    "firebase": "^12.12.0",
+    "viem": "^2.47.6",
+    "wagmi": "^3.6.0"
+  }
+}
