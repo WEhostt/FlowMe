@@ -1,12 +1,8 @@
-# Investment Balance Fix Progress
+# Vercel Deployment TODO - Step 1 Complete
 
-## Plan Steps:
-- [x] Step 1: Update SessionContext.tsx to include balances (fetch async on auth change)
-- [x] Step 2: Update InvestmentPlans.tsx to use balances from SessionContext (async handled)
-- [ ] Step 3: Test investment modal displays correct BTC balance
-- [ ] Step 4: Verify createInvestment deducts correctly
-- [ ] Step 5: Run `bun dev` and test end-to-end
-- [ ] Step 6: Complete task
-
-Current: All updates complete. npm install running, site ready at http://localhost:8081/cryptoflow/
-
+## Steps:
+- [x] Step 1: Checked git status (up to date with origin/main; TODO.md modified - committed below)
+- [ ] Step 2: Test local build with `npm run build`
+- [ ] Step 3: Check if Vercel CLI installed, install if needed
+- [ ] Step 4: Deploy with `vercel --prod`
+- [ ] Step 5: Test deployment and complete
